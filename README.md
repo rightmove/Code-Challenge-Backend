@@ -2,7 +2,7 @@
 
 Create an app using Java to load data from an API and display the answer to our questions.
 
-- Request JSON from https://github.com/rightmove/Code-Challenge-Backend/blob/master/property-data.json
+- Request JSON from https://raw.githubusercontent.com/rightmove/Code-Challenge-Backend/master/property-data.json
 - Calculate the average property price for properties in postcode outward ‘W1F’
 - Calculate the difference in average property prices between detached houses and flats
 
